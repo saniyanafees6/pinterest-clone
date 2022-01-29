@@ -1,3 +1,3 @@
 # Welcome to the Pinterest Clone
 
-Soem awesome steps to come
+Some awesome steps to come
