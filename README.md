@@ -1,6 +1,8 @@
 
 # Welcome to the Pinterest Clone
 
+It features fully functioning search, google authentication with a React frontend and Sanity.io backend
+
 ![Login Page](https://raw.githubusercontent.com/saniyanafees6/pinterest-clone/main/loginpage.png)
 ![Home Page](https://raw.githubusercontent.com/saniyanafees6/pinterest-clone/main/homepage.png)
 Here's a [link](https://pinterest-clone2.netlify.app) to the Pinterest clone
